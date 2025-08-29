@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "qual impacto do uso das redes sociais na sua vida?,
+        enunciado: "qual impacto do uso das redes sociais na sua vida?",
         alternativas: [
             {
                 texto: "uso a mesma para tudo",
